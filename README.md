@@ -1,1 +1,1 @@
-# zigbee-device
+# zemismart zigbee DTH for SmartThings
